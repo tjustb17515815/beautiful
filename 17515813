@@ -92,3 +92,69 @@ $(document).ready(function(){
       <li><a href="detail.html" class="ccsl">保管已经破损的古旧字画更要谨慎?</a></li>
       <li><a href="detail.html" class="ccsl">展示手绢，册页时要倍加注意?</a></li>
     </ul>
+    <div class="titbox">不要联系我们</div>
+    <div class="lxwm">
+      <div class="con">
+        手 机：暂无<br />
+        电 话：暂无<br />
+        邮箱：暂无<br />
+        地 址：北京科技大学天津学院
+      </div>
+    </div>
+  </div>
+  <div class="mainR">
+    <div class="brandnavbox">
+      <h2>联系我们</h2>
+      <div class="con">当前位置：首页》联系我们</div>
+    </div>
+    <div class="detailbox">
+      <div class="xq">
+        <div class="con">
+          <p>手 机：暂无</p>
+          <p>电 话：暂无</p>
+          <p>邮箱：暂无</p>
+          <p>地 址：北京科技大学天津学院</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="footerBox">
+  <div class="main">
+    <div class="footL">
+      <div class="tit">联系我们</div>
+      <ul>
+        <li class="f1">手 机：暂无</li>
+        <li class="f2">电 话：暂无</li>
+        <li class="f3">邮箱：暂无</li>
+        <li class="f4">地 址:北京科技大学天津学院</li>
+      </ul>
+    </div>
+    <div class="footR">
+      <div class="telbox">
+        <div class="tel">
+          <span>12345678910</span>
+          <b><p>不欢迎来电咨询</p></b>
+        </div>
+      </div>
+      <div class="footer">
+        <div>北京科技大学天津学院<br />联系方式：12345678910<br />地 址：北京科技大学天津学院</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
+<div class="fnav">
+  <div class="main">
+    <a href="index.html">首页</a>
+    <a href="about.html">关于我们</a>
+    <a href="product.html">产品展示</a>
+    <a href="news.html">行业动态</a>
+    <a href="book.html">我要留言</a>
+    <a href="contact.html">联系我们</a>
+  </div>
+</div>
+</body>
+</html>
